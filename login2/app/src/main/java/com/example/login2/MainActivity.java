@@ -10,8 +10,8 @@ import android.widget.Toast;
 
 public class MainActivity extends AppCompatActivity {
 
-    String userName="devadathan";
-    String pwd="dethen@123";
+    String userName="jissmon";
+    String pwd="1234";
     EditText uname,pass;
     Button logBtn;
     @Override
